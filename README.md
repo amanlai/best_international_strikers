@@ -6,4 +6,4 @@ Moreover, among players who scored more than 30 international goals (as of 9/27/
 
 The FIFA ranks come from [this Kaggle dataset](https://www.kaggle.com/cashncarry/fifaworldranking).
 
-[image](./best_international_goalscorers.png)
+![image](./best_international_goalscorers.png)
