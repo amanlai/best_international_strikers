@@ -4,6 +4,6 @@ Messi, Cristiano and Neymar are the only players to score more than 15 goals aga
 
 Moreover, among players who scored more than 30 international goals (as of 9/27/2021), every player who scored more than X goals against top-X FIFA ranked teams are listed (where X in [5, 10, 15, 20, 30, 40, 50]). For example, Messi, Cristiano Ronaldo, Neymar, Suarez and Klose are the only players to score more than 20 goals against top-20 FIFA ranked teams.
 
-The FIFA ranks come from [this Kaggle dataset](https://www.kaggle.com/cashncarry/fifaworldranking).
+The FIFA ranks come from [this Kaggle dataset](https://www.kaggle.com/cashncarry/fifaworldranking) and goal tallies were scraped from Wikipedia.
 
 ![image](./best_international_goalscorers.png)
